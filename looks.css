@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/239030/62728e6ba8a9b66b9be82846bd18794393826dcf.jpg);
+    background-size: 1450px;
+    
+}
+.dragBtn {
+    position: absolute;
+    height: 400px;
+    width:  415px;
+    border:  none;
+    background-image: url(https://i.imgur.com/g5GeZN8.png);
+    outline: none;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+
+}
